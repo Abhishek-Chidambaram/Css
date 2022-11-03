@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profile
+{
+  margin: auto;
+  max-width: 250px;
+  align-items: center;
+}
+
+.skills{
+  margin: auto;
+  max-width: 150px;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-container{
+  background-color: #FB2576;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color: #FF577F;
+  position: relative;
+}
+
+.skills1{
+  margin: auto;
+  padding-top: 0;
+  background-color: #FB2576;
+}
+
+.bottom-container{
+  margin: auto;
+  padding-top: 0;
+  background-color: #FF577F;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.food{
+  margin:auto;
+  max-width: 150px;
+}
